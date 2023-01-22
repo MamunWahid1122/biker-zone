@@ -5,3 +5,12 @@
     background-color: rgb(238, 107, 179);
     color: white;
 }
+.nav-item{
+    list-style-type: none;
+    padding:5px;
+}
+.nav-item a{
+    text-decoration: none;
+    color:white;
+   
+}
